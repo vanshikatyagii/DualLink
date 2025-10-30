@@ -1,0 +1,32 @@
+{
+    "image_id": "673fcb04c0078be2b6eda2f8a50bb280849388efa8efbe9098f8550bf60eb031",
+    "preview_cid": "Qmayvyo3bPX5pzam6M33Y66eipgWKS6wTi8Vh637ZG75Gg",
+    "owner": "0xSharerAddress...",
+    "raw_salt_S_b64": "ltSpFvIElkXtxwufE3mVzHse5+P94XK2ExNGo2Eh1Ag=",
+    "blocks": [
+        {
+            "block_id": 1,
+            "cid": "QmQzVMiebo54aKBrSdP4YCpaWgVNaEoX7FkJ3oQY1btV6e",
+            "attrs": {
+                "role": "doctor",
+                "org": "HospitalX"
+            },
+            "attrs_hash": "38554e9d52d8486ca45c8426db2741de1c254b578927c8f0a6fcb64342d82912",
+            "salt_hash": "d942fce6d0e94177201361cd4e7c3954b415aba03afceec4d3cf693a7bdc4bc2",
+            "encrypt_meta": {
+                "nonce_b64": "DIGkFCS2gxtMyrM1",
+                "tag_len": 16,
+                "dimensions": [
+                    200,
+                    100
+                ],
+                "private_block_coords": [
+                    100,
+                    0,
+                    200,
+                    100
+                ]
+            }
+        }
+    ]
+}

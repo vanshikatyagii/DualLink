@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# IPFS
+kubo/
+*.tar.gz
+
+# OS / IDE junk
+.DS_Store
+*.log
+
+# Build artifacts
+artifacts/
+cache/
+build/
